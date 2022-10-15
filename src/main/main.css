@@ -1,0 +1,21 @@
+.the {
+    transform: rotate(-90deg);
+    font-size: 20px;
+}
+
+.siren {
+    font-size: 30px;
+}
+
+.index {
+    color: black;
+    padding: 0 100px;
+}
+
+.one {
+    padding: 200px 0;
+}
+
+.index {
+    flex-flow: wrap;
+}

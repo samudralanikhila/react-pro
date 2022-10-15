@@ -1,0 +1,39 @@
+.the1{
+    font-size: 30px;
+}
+.con1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    box-shadow: gray 3px 3px 3px;
+    padding: 10px;
+}
+.con2{
+    font-size: 30px;
+    border:1px solid black;
+    color: rgb(24, 65, 51);
+    background-color: rgb(241, 236, 228);
+}
+.con3{
+    display: flex;
+}
+.con4{
+    padding: 20px;
+}
+.con5{
+    text-align: center;
+}
+.con7{
+    padding: 0 200px;
+}
+.con9{
+    text-decoration: none;
+    color: black;
+}
+.con10{
+    display: flex;
+}
+.con11{
+    display: flex;
+    justify-content: space-between;
+}

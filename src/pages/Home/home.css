@@ -1,0 +1,116 @@
+
+
+.one12 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFApCsANewzlONCRpzD_FBBEzhOE-DgF2BqA&usqp=CAU );
+    height: 360px;
+    width: 620px;
+    background-size: contain;
+    border-radius: 5px;
+}
+
+.one13 {
+    position: relative;
+    top: 250px;
+    left: 50px;
+}
+
+.one15 {
+    height: 170px;
+    width: 400px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOoG2-WGb2FbrcRQdl9Nl5SSN4Awh5ryHYqw&usqp=CAU);
+    position: relative;
+    background-size: cover;
+    left: 600px;
+    bottom: 360px;
+    margin-left: 30px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.one {
+    padding: 0 100px;
+}
+
+.one16 {
+    padding-top: 100px;
+    padding-left: 10px;
+}
+.latest{
+    padding: 0 100px;
+    position: relative;
+    bottom: 300px;
+}
+.hr1{
+    width: 150px;
+    position: relative;
+    right:475px;
+}
+.latest1{
+    padding: 0 100px;
+    position: relative;
+    bottom: 250px;
+    display: flex;
+    justify-content: space-between;
+}
+.two{
+    width: 400px;
+}
+
+.artical{
+    padding: 0 100px;
+    position: relative;
+    bottom: 250px;
+}
+.artical1{
+    padding: 0 100px;
+    position: relative;
+    bottom: 240px;
+    display: flex;
+}
+.three{
+    width: 700px;
+    display: flex;
+    justify-content: space-between;
+}
+.three1{
+    width: 300px;
+}
+
+.three3{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/1/15/Ellora_cave16_001.jpg);
+    height: 300px;
+    background-size: cover;
+
+}
+.three4{
+    position: relative;
+    top: 240px;
+    left: 10px;
+}
+.four{
+    width: 300px;
+    height: 500px;
+    border: 1px solid black;
+    margin-left: 125px;
+}
+
+.add{
+    position: relative;
+    top: 250px;
+    left: 10px;
+}
+.five{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 100px;
+    position: relative;
+    bottom: 225px;
+}
+.five1{
+    padding: 10px;
+}
+.story{
+    padding: 0 100px;
+    position: relative;
+    bottom: 250px;
+}

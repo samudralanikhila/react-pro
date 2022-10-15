@@ -1,0 +1,68 @@
+.bolly {
+    display: flex;
+    padding: 0 100px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.bolly1 {
+    width: 650px;
+    height: auto;
+    
+}
+
+.bolly2 {
+    width: 425px;
+    height: auto;
+    
+}
+
+.hr2 {
+    width: 50px;
+   position: relative;
+   right: 300px;
+}
+.bolly3{
+    text-decoration: none;
+    color: black;
+}
+.bolly4{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.bolly5{
+    width: 350px;
+}
+.hr3{
+    width: 50px;
+    position: relative;
+   right: 185px;
+}
+.bolly6{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.bolly7{
+    font-size: 10px;
+    width: 250px;
+}
+.h1{
+    font-size: 50px;
+    color: gray;
+}
+.bolly8{
+    width: 400px;
+    height: 500px;
+    border-left: 5px solid red;
+    border: 1px solid black;
+}
+.b1{
+    font-size: 50px;
+    margin-top: 200px;
+    margin-left: 25px;
+}
